@@ -1,16 +1,30 @@
-# hive_learn
+# Cupertino Hive Flutter App
 
-A new Flutter project.
+A sleek and responsive Flutter app built using Cupertino (iOS-style) widgets. This project demonstrates local data storage with Hive, modular architecture, and an iOS-native look and feel using Flutter.
 
-## Getting Started
+## 🚀 Features
 
-This project is a starting point for a Flutter application.
+- ✨ Beautiful iOS-style UI with Cupertino widgets  
+- 📦 Local storage using Hive  
+- 🎯 Clean and modular code structure  
+- 🎨 Custom theming and smooth transitions  
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠️ Tech Stack
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Flutter  
+- Cupertino Widgets  
+- Hive (Local Storage)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📷 Screenshots
+
+_Add screenshots here if available._
+
+## 📁 Folder Structure
+
+```bash
+/lib
+ ┣ /hiv_
+ ┃ ┣ hive_cre.dart
+ ┃ ┗ obj_hive.dart
+ ┣ /constants.dart
+ ┣ main.dart
