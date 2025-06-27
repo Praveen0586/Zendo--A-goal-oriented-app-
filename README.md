@@ -1,6 +1,10 @@
 # Cupertino Hive Flutter App
 
 A sleek and responsive Flutter app built using Cupertino (iOS-style) widgets. This project demonstrates local data storage with Hive, modular architecture, and an iOS-native look and feel using Flutter.
+## 🌐 Live Demo
+
+🚀 Try the app live:  
+[Zendo — A Goal-Oriented App (Flutter Web)](https://praveen0586.github.io/Zendo--A-goal-oriented-app-/)
 
 ## 🚀 Features
 
