@@ -63354,7 +63354,7 @@ $0(){$.rt().sE(0,$.a61.aL().CD(0,"theme",!1))},
 $S:0}
 A.a1J.prototype={
 $3(a,b,c){var s=null,r=b?B.b0:B.Z
-return new A.lS(new A.uO(s),new A.ot(B.wi,r,s,s,s,s,s,s),"Flutter App",s)},
+return new A.lS(new A.uO(s),new A.ot(B.wi,r,s,s,s,s,s,s),"ZenDo \u2013 A Goal-Oriented App",s)},
 $S:397}
 A.uO.prototype={
 ak(){return new A.JH(new A.Gv(B.vR,$.aB()))}}
